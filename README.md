@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on my programming skills
 - 🌱 I’m currently learning frontend development
 - 👯 I’m looking to collaborate on cool projects and funcy stuff
-- ⚡ Fun fact: Playing basketball
+- 🏀 Playing basketball
